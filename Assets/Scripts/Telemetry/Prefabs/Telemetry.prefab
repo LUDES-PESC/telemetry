@@ -122,11 +122,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nodesBag: {fileID: 1223454956821962}
-  atomicModel: {fileID: 1319933964516322, guid: 959388f2fa3094a4aadc21673355ba26,
+  atomicModel: {fileID: 1319933964516322, guid: 1ea6a13684eccbd4abdfcfe32b0ff0ae,
     type: 2}
-  singleEventModel: {fileID: 1319933964516322, guid: 8c17a0ea2f96640f28f6e2d00b7cd8a7,
+  singleEventModel: {fileID: 1319933964516322, guid: 20846f514a83a33488d26762285e5500,
     type: 2}
-  chainEventModel: {fileID: 1319933964516322, guid: 97539cebf794243d0a70b78c41a407d2,
+  chainEventModel: {fileID: 1319933964516322, guid: 987e3108abcf4914c8a127c907f93f17,
     type: 2}
   detectSceneName: 1
   sceneName: 
